@@ -11,9 +11,16 @@ List of free resrouces for web developers and content creators.
 
 
 ## Audio
+- https://www.bensound.com/royalty-free-music?tag[]=effects 
 
-## AI 
 
+## AI Text
+- https://rytr.me/
+
+## AI Images
+- https://hotpot.ai/art-generator 
+
+- 
 ## Youtube Channels 
 - https://www.youtube.com/@noobtoprofessional
 - https://www.youtube.com/@ProgramWithErik
@@ -30,3 +37,5 @@ List of free resrouces for web developers and content creators.
 ## UI/UX Podcasts
 
 ## Tools
+- https://coolors.co/
+- http://colormind.io/
