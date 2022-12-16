@@ -26,6 +26,7 @@ List of free resrouces for web developers and content creators.
 
 
 ## Youtube Channels 
+### Programming
 - https://www.youtube.com/@noobtoprofessional
 - https://www.youtube.com/@ProgramWithErik
 - https://www.youtube.com/@NetNinja
@@ -36,6 +37,7 @@ List of free resrouces for web developers and content creators.
 - https://www.youtube.com/@JamesQQuick/videos
 - https://www.youtube.com/@LearnVue
 
+### UI/UX
 
 ## Programming Podcasts
 
@@ -46,3 +48,11 @@ List of free resrouces for web developers and content creators.
 ## Tools
 - https://coolors.co/
 - http://colormind.io/
+
+
+## Inspiration
+
+- https://www.lapa.ninja
+- https://www.awwwards.com/
+- https://minimal.gallery/
+- https://godly.website/
