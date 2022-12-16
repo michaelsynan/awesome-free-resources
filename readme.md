@@ -2,7 +2,9 @@ List of free resrouces for web developers and content creators.
 
 ## Images
 
+
 ## SVGs
+
 
 ## Fonts
 - https://fontesk.com/license/free-for-commercial-use/
@@ -18,10 +20,11 @@ List of free resrouces for web developers and content creators.
 ## AI Text
 - https://rytr.me/
 
+
 ## AI Images
 - https://hotpot.ai/art-generator 
 
-- 
+
 ## Youtube Channels 
 - https://www.youtube.com/@noobtoprofessional
 - https://www.youtube.com/@ProgramWithErik
@@ -33,9 +36,12 @@ List of free resrouces for web developers and content creators.
 - https://www.youtube.com/@JamesQQuick/videos
 - https://www.youtube.com/@LearnVue
 
+
 ## Programming Podcasts
 
+
 ## UI/UX Podcasts
+
 
 ## Tools
 - https://coolors.co/
