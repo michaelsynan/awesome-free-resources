@@ -12,6 +12,7 @@ List of free resrouces for web developers and content creators.
 
 ## Audio
 - https://www.bensound.com/royalty-free-music?tag[]=effects 
+- https://hellothematic.com/
 
 
 ## AI Text
