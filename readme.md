@@ -19,6 +19,7 @@ List of free resrouces for web developers and content creators.
 - https://fontesk.com/license/free-for-commercial-use/
 - https://fontlibrary.org/
 - https://www.fontspace.com/commercial-fonts
+- https://usemodify.com/
 <br />
 
 ## Audio
@@ -49,6 +50,7 @@ List of free resrouces for web developers and content creators.
 <br />
 
 ### UI/UX
+- https://www.youtube.com/@SatoriGraphics
 <br />
 
 ## Podcasts
@@ -62,6 +64,10 @@ List of free resrouces for web developers and content creators.
 ## Tools
 - https://coolors.co/
 - http://colormind.io/
+- https://socialsizes.io/
+- https://www.template.net/
+- https://www.free-mockup.com/
+- https://lukaszadam.com/illustrations
 <br />
 
 ## Inspiration
@@ -69,4 +75,5 @@ List of free resrouces for web developers and content creators.
 - https://www.awwwards.com/
 - https://minimal.gallery/
 - https://godly.website/
+- https://httpster.net/
 <br />
