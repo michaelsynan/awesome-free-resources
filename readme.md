@@ -15,6 +15,7 @@ List of free resrouces for web developers and content creators.
 ## Audio
 - https://www.bensound.com/royalty-free-music?tag[]=effects 
 - https://hellothematic.com/
+- https://studio.youtube.com/channel/UCdwufyEpC8RMtHRlneT_zWw/music
 
 
 ## AI Text
@@ -40,7 +41,7 @@ List of free resrouces for web developers and content creators.
 ### UI/UX
 
 ## Programming Podcasts
-
+- https://changelog.com/jsparty | [RSS](https://changelog.com/jsparty/feed)
 
 ## UI/UX Podcasts
 
