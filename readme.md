@@ -51,11 +51,13 @@ List of free resrouces for web developers, UI/UX designers and content creators.
 ### UI/UX
 - https://www.youtube.com/@SatoriGraphics
 - https://www.youtube.com/@vaexperience
+- https://www.youtube.com/@WiredtoDesign
 <br />
 
 ## Podcasts
 ### Programming
 - https://changelog.com/jsparty | [RSS](https://changelog.com/jsparty/feed)
+- https://syntax.fm/ | [RSS](http://feed.syntax.fm/rss)
 
 ### UI/UX
 <br />
