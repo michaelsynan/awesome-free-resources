@@ -50,6 +50,7 @@ List of free resrouces for web developers and content creators.
 
 ### UI/UX
 - https://www.youtube.com/@SatoriGraphics
+- https://www.youtube.com/@vaexperience
 <br />
 
 ## Podcasts
