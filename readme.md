@@ -47,7 +47,6 @@ List of free resrouces for web developers and content creators.
 - https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg
 - https://www.youtube.com/@JamesQQuick/videos
 - https://www.youtube.com/@LearnVue
-<br />
 
 ### UI/UX
 - https://www.youtube.com/@SatoriGraphics
@@ -56,7 +55,6 @@ List of free resrouces for web developers and content creators.
 ## Podcasts
 ### Programming
 - https://changelog.com/jsparty | [RSS](https://changelog.com/jsparty/feed)
-<br />
 
 ### UI/UX
 <br />
