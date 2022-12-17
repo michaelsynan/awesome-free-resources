@@ -35,7 +35,7 @@ List of free resrouces for web developers and content creators.
 - https://hotpot.ai/art-generator 
 <br />
 
-## Youtube Channels 
+## Youtube
 ### Programming
 - https://www.youtube.com/@noobtoprofessional
 - https://www.youtube.com/@ProgramWithErik
@@ -51,11 +51,12 @@ List of free resrouces for web developers and content creators.
 ### UI/UX
 <br />
 
-## Programming Podcasts
+## Podcasts
+### Programming
 - https://changelog.com/jsparty | [RSS](https://changelog.com/jsparty/feed)
 <br />
 
-## UI/UX Podcasts
+### UI/UX
 <br />
 
 ## Tools
