@@ -1,4 +1,4 @@
-List of free resrouces for web developers and content creators. 
+List of free resrouces for web developers, UI/UX designers and content creators. 
 
 ## Images
 - https://www.pexels.com/
