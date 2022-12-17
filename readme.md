@@ -74,4 +74,5 @@ List of free resrouces for web developers and content creators.
 - https://minimal.gallery/
 - https://godly.website/
 - https://httpster.net/
+- https://lawsofux.com/
 <br />
