@@ -60,6 +60,9 @@ List of free resrouces for web developers, UI/UX designers and content creators.
 - https://syntax.fm/ | [RSS](http://feed.syntax.fm/rss)
 
 ### UI/UX
+- https://uxpodcast.com/ | [RSS](https://uxpodcast.com/feed/podcast/)
+- https://uibreakfast.com/ | [Feed](https://uibreakfast.com/category/podcast/)
+- https://design.google/ | [RSS](https://googledesignmethod.libsyn.com/rss)
 <br />
 
 ## Tools
