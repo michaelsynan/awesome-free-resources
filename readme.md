@@ -77,5 +77,15 @@ List of free resrouces for web developers, UI/UX designers and content creators.
 - https://minimal.gallery/
 - https://godly.website/
 - https://httpster.net/
-- https://lawsofux.com/
+- https://mobbin.com
+- https://www.uisources.com/
+- https://uigarage.net/
+- https://www.siteinspire.com/
+- https://land-book.com/
+- https://www.landingfolio.com/
+
+
 <br />
+
+## Learning 
+- https://lawsofux.com/
