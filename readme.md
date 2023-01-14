@@ -4,14 +4,14 @@ List of free resrouces for web developers, UI/UX designers and content creators.
 
 ## **TABLE OF CONTENTS**
 - [AI](#ai-text)
-- Images
-- SVG
-- Fonts
-- Audio 
-- YouTube
-- Podcasts
-- Learning 
-- Tools
+- [Images](#images)
+- [SVG](#svgs)
+- [Fonts](#fonts)
+- [Audio](#audio)
+- [YouTube](#youtube)
+- [Podcasts](#podcasts)
+- [Learning](#learning)
+- [Tools](#tools)
 
 ## Images
 - https://www.pexels.com/
