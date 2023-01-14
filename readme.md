@@ -3,7 +3,7 @@
 List of free resrouces for web developers, UI/UX designers and content creators. 
 
 ## **TABLE OF CONTENTS**
-- AI
+- [AI](ai-text)
 - Images
 - SVG
 - Fonts
