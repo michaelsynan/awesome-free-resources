@@ -18,7 +18,7 @@ List of free resrouces for web developers, UI/UX designers and content creators.
 - [Tools](#tools)
 
 ## Images
-- https://www.pexels.com/
+- [Pexels](https://www.pexels.com/)
 - https://pixabay.com/
 - https://www.vecteezy.com/
 - https://www.freepik.com
