@@ -19,14 +19,14 @@ List of free resrouces for web developers, UI/UX designers and content creators.
 
 ## Images
 - [Pexels](https://www.pexels.com/)
-- https://pixabay.com/
-- https://www.vecteezy.com/
-- https://www.freepik.com
-- https://morguefile.com/
-- https://picjumbo.com/
-- https://www.stockvault.net/free-photos/business/%26s=dl
-- https://gratisography.com/
-- https://nos.twnsnd.co/
+- [Pixabay](https://pixabay.com/)
+- [Vecteezy](https://www.vecteezy.com/)
+- [Freepik](https://www.freepik.com)
+- [Morquefile](https://morguefile.com/)
+- [Picjumbo](https://picjumbo.com/)
+- [Stockvault](https://www.stockvault.net/free-photos/business/%26s=dl)
+- [Gratisography](https://gratisography.com/)
+- [New Old Stock](https://nos.twnsnd.co/)
 <br />
 
 ## SVGs
