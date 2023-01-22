@@ -30,6 +30,7 @@ List of free resrouces for web developers, UI/UX designers and content creators.
 <br />
 
 ## SVGs
+- [Hero Patterns](https://heropatterns.com/): SVG pattern generator.
 <br />
 
 ## Fonts
