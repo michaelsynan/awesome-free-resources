@@ -90,6 +90,7 @@ List of free resrouces for web developers, UI/UX designers and content creators.
 - https://www.template.net/
 - https://www.free-mockup.com/
 - https://lukaszadam.com/illustrations
+- [maketintsandshades.com](https://maketintsandshades.com/): Tint and shade generator. 
 <br />
 
 ## Inspiration
