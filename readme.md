@@ -32,6 +32,7 @@ List of free resrouces for web developers, UI/UX designers and content creators.
 ## SVGs
 - [Hero Patterns](https://heropatterns.com/): SVG pattern generator.
 - [SVG Repo](https://www.svgrepo.com/): 460,000+ Open-licensed SVG Vector and Icons.
+- [Iconify](https://iconify.design/): Amazing and easy-to-use icon framework containing all the most popular icon sets.
 <br />
 
 ## Fonts
