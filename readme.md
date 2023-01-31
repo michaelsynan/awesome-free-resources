@@ -14,7 +14,7 @@ List of free resrouces for web developers, UI/UX designers and content creators.
 - [Podcasts](#podcasts)
   - Programming
   - UI/UX
-- [Learning](#learning)
+- [Learning & Resources](#learning-&-resources)
 - [Tools](#tools)
 
 ## Images
