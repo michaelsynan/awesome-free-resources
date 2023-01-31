@@ -1,6 +1,6 @@
 # **WORK IN PROGRESS - CHECK BACK SOON** 
 
-List of free resrouces for web developers, UI/UX designers and content creators. 
+Curated list of free resrouces chosen for founders & freelancers working on projects from initial idea to deployment. 
 
 ## **TABLE OF CONTENTS**
 - [AI](#ai-text)
@@ -96,6 +96,8 @@ List of free resrouces for web developers, UI/UX designers and content creators.
 - https://www.free-mockup.com/
 - https://lukaszadam.com/illustrations
 - [Tint & Shade Generator](https://maketintsandshades.com/): Create shades of a given hex color in 10% increments.
+- [Responsively](https://responsively.app): Tools for checking your sites accross multiple screen sizes for responsiveness. 
+
 <br />
 
 ## Inspiration
