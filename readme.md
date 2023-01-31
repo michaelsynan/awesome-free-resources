@@ -97,6 +97,7 @@ Curated list of free resrouces chosen for founders & freelancers working on proj
 - https://lukaszadam.com/illustrations
 - [Tint & Shade Generator](https://maketintsandshades.com/): Create shades of a given hex color in 10% increments.
 - [Responsively](https://responsively.app): Tools for checking your sites accross multiple screen sizes for responsiveness. 
+- [BrowserFrame](https://browserframe.com): Download customizable browser frames for screenshots and design drafts. 
 
 <br />
 
