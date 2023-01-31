@@ -86,6 +86,9 @@ List of free resrouces for web developers, UI/UX designers and content creators.
 <br />
 
 ## Tools
+- [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds): Easily create pure CSS background patters.
+- [CSS Gradient](https://cssgradient.io): Tool that lets you create linear and radial CSS gradients.
+- [CSS Layout Generator](layout.bradwoods.io): Premade grid and flexbox layouts you can use or edit.
 - https://coolors.co/
 - http://colormind.io/
 - https://socialsizes.io/
@@ -111,5 +114,6 @@ List of free resrouces for web developers, UI/UX designers and content creators.
 
 <br />
 
-## Learning 
-- https://lawsofux.com/
+## Learning & Reference
+- [Laws of UX](https://lawsofux.com/): Great resrouce on various important UX principles.
+- [MDN_](https://developer.mozilla.org): Thoroughly documented CSS, HTML and JavaScript resources.
