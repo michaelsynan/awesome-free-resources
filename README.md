@@ -89,11 +89,11 @@ Curated list of free resrouces chosen for founders & freelancers working on proj
 - [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds): Easily create pure CSS background patters.
 - [CSS Gradient](https://cssgradient.io): Tool that lets you create linear and radial CSS gradients.
 - [CSS Layout Generator](layout.bradwoods.io): Premade grid and flexbox layouts you can use or edit.
-- [Coolors](https://coolors.co/):
+- [Coolors](https://coolors.co/): Popular tool for generating color schemes.
 - [Colormind](http://colormind.io/): Uses ML to create color schemes. 
 - [socialsizes](https://socialsizes.io/): Correctly sized templates for all major social media platforms.
-- [Template.net](https://www.template.net/):
-- [Free Mockup](https://www.free-mockup.com/):
+- [Template.net](https://www.template.net/): Free templates for a variety of design and business uses. 
+- [Free Mockup](https://www.free-mockup.com/): Free mockups displaying your design or product in a variety of situations.
 - [lukaszadam](https://lukaszadam.com/illustrations): Free CC0 illustrations by Lukasz Adam. 
 - [Tint & Shade Generator](https://maketintsandshades.com/): Create shades of a given hex color in 10% increments.
 - [Responsively](https://responsively.app): Tools for checking your sites accross multiple screen sizes for responsiveness. 
