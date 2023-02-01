@@ -122,3 +122,9 @@ Curated list of free resrouces chosen for founders & freelancers working on proj
 - [MDN_](https://developer.mozilla.org): Thoroughly documented CSS, HTML and JavaScript resources.
 - Roadmaps
 - [free-for.dev](https://free-for.dev/): Comprehensive free developer resource list.
+
+<hr />
+
+## License
+
+- [CC0](LICENSE.md)
