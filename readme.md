@@ -14,7 +14,7 @@ Curated list of free resrouces chosen for founders & freelancers working on proj
 - [Podcasts](#podcasts)
   - Programming
   - UI/UX
-- [Learning & Reference](#learning-&-reference)
+- [Learning & Reference](#learning-and-reference)
 - [Tools](#tools)
 
 ## Images
@@ -117,7 +117,8 @@ Curated list of free resrouces chosen for founders & freelancers working on proj
 
 <br />
 
-## Learning & Reference
+## Learning and Reference
 - [Laws of UX](https://lawsofux.com/): Great resrouce on various important UX principles.
 - [MDN_](https://developer.mozilla.org): Thoroughly documented CSS, HTML and JavaScript resources.
 - Roadmaps
+- [free-for.dev](https://free-for.dev/): Comprehensive free developer resource list.
