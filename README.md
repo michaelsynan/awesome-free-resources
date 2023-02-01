@@ -1,6 +1,4 @@
-# **WORK IN PROGRESS - CHECK BACK SOON** 
-
-Curated list of free resrouces chosen for founders & freelancers working on projects from initial idea to deployment. 
+# Curated list of **awesome** free resrouces chosen for founders & freelancers working on projects from initial idea to deployment. 
 
 ## **TABLE OF CONTENTS**
 - [AI](#ai-text)
@@ -102,13 +100,13 @@ Curated list of free resrouces chosen for founders & freelancers working on proj
 <br />
 
 ## Inspiration
-- [Lapa Ninja]((https://www.lapa.ninja)
+- [Lapa Ninja](https://www.lapa.ninja)
 - [Awwwards](https://www.awwwards.com/)
 - [Minimal Gallery](https://minimal.gallery/)
 - [Godly](https://godly.website/)
-- https://httpster.net/
-- https://mobbin.com
-- https://www.uisources.com/
+- [httpster](https://httpster.net/)
+- [Mobbin[(https://mobbin.com)
+- [UI Sources](https://www.uisources.com/)
 - https://uigarage.net/
 - https://www.siteinspire.com/
 - https://land-book.com/
