@@ -102,10 +102,10 @@ Curated list of free resrouces chosen for founders & freelancers working on proj
 <br />
 
 ## Inspiration
-- https://www.lapa.ninja
-- https://www.awwwards.com/
-- https://minimal.gallery/
-- https://godly.website/
+- [Lapa Ninja]((https://www.lapa.ninja)
+- [Awwwards](https://www.awwwards.com/)
+- [Minimal Gallery](https://minimal.gallery/)
+- [Godly](https://godly.website/)
 - https://httpster.net/
 - https://mobbin.com
 - https://www.uisources.com/
