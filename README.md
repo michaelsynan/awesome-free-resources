@@ -36,10 +36,10 @@ Curated list of free resrouces chosen for founders & freelancers working on proj
 <br />
 
 ## Fonts
-- https://fontesk.com/license/free-for-commercial-use/
-- https://fontlibrary.org/
-- https://www.fontspace.com/commercial-fonts
-- https://usemodify.com/
+- [Fontesk](https://fontesk.com/license/free-for-commercial-use/) 
+- [Font Library](https://fontlibrary.org/) 
+- [FontSpace](https://www.fontspace.com/commercial-fonts) 
+- [Use & Modify](https://usemodify.com/) 
 <br />
 
 ## Audio
