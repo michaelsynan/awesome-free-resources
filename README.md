@@ -1,4 +1,4 @@
-# Curated list of **awesome** free resrouces chosen for founders & freelancers working on projects from initial idea to deployment. 
+Curated list of **awesome** free resrouces chosen for founders & freelancers working on projects from initial idea to deployment. 
 
 ## **TABLE OF CONTENTS**
 - [AI](#ai-text)
