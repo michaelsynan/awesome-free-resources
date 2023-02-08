@@ -4,6 +4,7 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 
 **_Want to make a contribution? Just make a pull reuqest. ✌️_**
 <hr>
+
 ## **TABLE OF CONTENTS**
 - [AI](#ai-text)
 - [Images](#images)
