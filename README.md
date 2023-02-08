@@ -1,4 +1,7 @@
-Curated list of **awesome** free resrouces chosen for founders & freelancers working on projects from initial idea to deployment. 
+🌈 **Curated list of free stuff to help you build a website from start to end** ✨ 
+
+Many times new developers or desigers end up having to wear many hats. This _awesome_ list is meant to help make that a little easier. 
+
 
 ## **TABLE OF CONTENTS**
 - [AI](#ai-text)
