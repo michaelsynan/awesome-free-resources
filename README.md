@@ -30,6 +30,10 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 - [Stockvault](https://www.stockvault.net/free-photos/business/%26s=dl)
 - [Gratisography](https://gratisography.com/)
 - [New Old Stock](https://nos.twnsnd.co/)
+- [Open Peeps](https://www.openpeeps.com/)
+- [Drawkit](https://drawkit.com)
+- [unDraw](https://undraw.co/illustrations)
+
 <br />
 
 ## SVGs
