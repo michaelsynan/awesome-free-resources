@@ -36,6 +36,11 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 
 <br />
 
+## Certifications
+- [Skillshop (Google)](https://skillshop.exceedlms.com/student/catalog)
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)
+
 ## SVGs
 - [Hero Patterns](https://heropatterns.com/): SVG pattern generator.
 - [SVG Repo](https://www.svgrepo.com/): 460,000+ Open-licensed SVG Vector and Icons.
