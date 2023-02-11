@@ -21,19 +21,19 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 - [Tools](#tools)
 
 ## Images
-- [Pexels](https://www.pexels.com/)
-- [Pixabay](https://pixabay.com/)
-- [Vecteezy](https://www.vecteezy.com/)
-- [Freepik](https://www.freepik.com)
-- [Morquefile](https://morguefile.com/)
-- [Picjumbo](https://picjumbo.com/)
-- [Stockvault](https://www.stockvault.net/free-photos/business/%26s=dl)
-- [Gratisography](https://gratisography.com/)
-- [New Old Stock](https://nos.twnsnd.co/)
-- [Open Peeps](https://www.openpeeps.com/)
-- [Drawkit](https://drawkit.com)
-- [unDraw](https://undraw.co/illustrations)
-- [Pixsellz](https://www.pixsellz.io/#freebies)
+- [Pexels](https://www.pexels.com/): Free, royalty free, stock photos.
+- [Pixabay](https://pixabay.com/): Free, royalty free, stock photos.
+- [Vecteezy](https://www.vecteezy.com/): Free vector art, stock photos & videos. 
+- [Freepik](https://www.freepik.com): Free images, vectors, mockups, and more. 
+- [Morquefile](https://morguefile.com/): Free images, vectors, videos and templates. Commercial use OK. 
+- [Picjumbo](https://picjumbo.com/): Free photos. Commercial use OK. 
+- [Stockvault](https://www.stockvault.net/free-photos/business/%26s=dl): Free photos. Filter for CC0 license images. 
+- [Gratisography](https://gratisography.com/)? Free stock images and vector graphics. Commercial use OK. 
+- [New Old Stock](https://nos.twnsnd.co/): Free stock images from public archives. No known copyright restrictions. 
+- [Open Peeps](https://www.openpeeps.com/): Cool illustrations, SVG and PNG availble. CC0 license. 
+- [Drawkit](https://drawkit.com): Illustration collections. OK for commercial use. ([license](https://www.drawkit.com/license)). 
+- [unDraw](https://undraw.co/illustrations): Cool and fun vector illustrations. OK for commercial use. ([license](https://undraw.co/license))
+- [Pixsellz](https://www.pixsellz.io/#freebies): Some really great free illustration collections. Maybe OK for commercial use, see [license](https://www.dropbox.com/s/75pnhb69izt37xz/License.pdf?dl=0). 
 
 <br />
 
