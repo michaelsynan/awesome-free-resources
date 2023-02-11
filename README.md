@@ -46,7 +46,7 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 - [Hero Patterns](https://heropatterns.com/): SVG pattern generator.
 - [SVG Repo](https://www.svgrepo.com/): 460,000+ Open-licensed SVG Vector and Icons.
 - [Iconify](https://iconify.design/): Amazing and easy-to-use icon framework containing all the most popular icon sets.
-- [Pattern Monster](https://pattern.monster/)
+- [Pattern Monster](https://pattern.monster/): Large number of customizable SVG patterns.
 <br />
 
 ## Fonts
