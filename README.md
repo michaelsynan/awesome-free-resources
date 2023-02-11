@@ -33,6 +33,7 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 - [Open Peeps](https://www.openpeeps.com/)
 - [Drawkit](https://drawkit.com)
 - [unDraw](https://undraw.co/illustrations)
+- [Pixsellz](https://www.pixsellz.io/#freebies)
 
 <br />
 
