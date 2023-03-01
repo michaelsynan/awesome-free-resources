@@ -11,6 +11,7 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 - [SVG](#svgs)
 - [Fonts](#fonts)
 - [Audio](#audio)
+- [Inspiration](#inspiration)
 - [YouTube](#youtube)
   - Programming
   - UI/UX
