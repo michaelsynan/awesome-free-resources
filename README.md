@@ -21,6 +21,7 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 - [YouTube](#youtube)
   - [Programming](#programming-yt)
   - [UI/UX](#uiux-yt)
+  - [Typography](#typography-yt)
 
 ## AI
 - https://rytr.me/
@@ -134,6 +135,8 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 - https://www.youtube.com/@WiredtoDesign
 <br />
 
+### Typography YT
+- https://www.youtube.com/c/pimpmytype
 <hr />
 
 ## License
