@@ -122,6 +122,7 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 - [lukaszadam](https://lukaszadam.com/illustrations): Free CC0 illustrations by Lukasz Adam. 
 - [Responsively](https://responsively.app): Tools for checking your sites accross multiple screen sizes for responsiveness. 
 - [BrowserFrame](https://browserframe.com): Download customizable browser frames for screenshots and design drafts. 
+- [Social Sizes](https://socialsizes.io/): Sizes of social media tools.
 <br />
 
 ## Youtube
