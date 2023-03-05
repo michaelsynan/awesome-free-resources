@@ -8,6 +8,7 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 ## **TABLE OF CONTENTS**
 - [AI](#ai)
 - [Audio](#audio)
+- [Case Studies](#case-studies)
 - [Certifications](#certifications)
 - [Fonts](#fonts)
 - [Images](#images)
@@ -34,6 +35,8 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 - https://studio.youtube.com/channel/UCdwufyEpC8RMtHRlneT_zWw/music
 <br />
 
+## Case Studies
+- https://www.casestudy.club/
 ## Certifications
 - [Skillshop (Google)](https://skillshop.exceedlms.com/student/catalog)
 - [freeCodeCamp](https://www.freecodecamp.org/)
