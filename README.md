@@ -10,6 +10,7 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 - [Audio](#audio)
 - [Case Studies](#case-studies)
 - [Certifications](#certifications)
+- [Color](#color)
 - [Fonts](#fonts)
 - [Images](#images)
 - [Inspiration](#inspiration)
@@ -37,11 +38,17 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 
 ## Case Studies
 - https://www.casestudy.club/
+
 ## Certifications
 - [Skillshop (Google)](https://skillshop.exceedlms.com/student/catalog)
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)
 <br />
+
+## Color
+- [Coolors](https://coolors.co/): Popular tool for generating color schemes.
+- [Colormind](http://colormind.io/): Uses ML to create color schemes. 
+- [Tint & Shade Generator](https://maketintsandshades.com/): Create shades of a given hex color in 10% increments.
 
 ## Fonts
 - [Fontesk](https://fontesk.com/license/free-for-commercial-use/) 
@@ -109,13 +116,10 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 - [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds): Easily create pure CSS background patters.
 - [CSS Gradient](https://cssgradient.io): Tool that lets you create linear and radial CSS gradients.
 - [CSS Layout Generator](layout.bradwoods.io): Premade grid and flexbox layouts you can use or edit.
-- [Coolors](https://coolors.co/): Popular tool for generating color schemes.
-- [Colormind](http://colormind.io/): Uses ML to create color schemes. 
 - [socialsizes](https://socialsizes.io/): Correctly sized templates for all major social media platforms.
 - [Template.net](https://www.template.net/): Free templates for a variety of design and business uses. 
 - [Free Mockup](https://www.free-mockup.com/): Free mockups displaying your design or product in a variety of situations.
 - [lukaszadam](https://lukaszadam.com/illustrations): Free CC0 illustrations by Lukasz Adam. 
-- [Tint & Shade Generator](https://maketintsandshades.com/): Create shades of a given hex color in 10% increments.
 - [Responsively](https://responsively.app): Tools for checking your sites accross multiple screen sizes for responsiveness. 
 - [BrowserFrame](https://browserframe.com): Download customizable browser frames for screenshots and design drafts. 
 <br />
