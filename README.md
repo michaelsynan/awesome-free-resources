@@ -141,6 +141,7 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 - https://www.youtube.com/@SatoriGraphics
 - https://www.youtube.com/@vaexperience
 - https://www.youtube.com/@WiredtoDesign
+- [Tailwind CSS v2.0: From Zero to Production](https://www.youtube.com/watch?v=elgqxmdVms8&list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0)
 <br />
 
 ### Typography YT
