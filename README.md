@@ -38,6 +38,7 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 
 ## Case Studies
 - https://www.casestudy.club/
+<br />
 
 ## Certifications
 - [Skillshop (Google)](https://skillshop.exceedlms.com/student/catalog)
@@ -49,6 +50,7 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 - [Coolors](https://coolors.co/): Popular tool for generating color schemes.
 - [Colormind](http://colormind.io/): Uses ML to create color schemes. 
 - [Tint & Shade Generator](https://maketintsandshades.com/): Create shades of a given hex color in 10% increments.
+<br />
 
 ## Fonts
 - [Fontesk](https://fontesk.com/license/free-for-commercial-use/) 
@@ -99,6 +101,7 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 ### Programming Podcasts
 - https://changelog.com/jsparty | [RSS](https://changelog.com/jsparty/feed)
 - https://syntax.fm/ | [RSS](http://feed.syntax.fm/rss)
+<br />
 
 ### UI/UX Podcasts
 - https://uxpodcast.com/ | [RSS](https://uxpodcast.com/feed/podcast/)
@@ -138,6 +141,7 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 - https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg
 - https://www.youtube.com/@JamesQQuick/videos
 - https://www.youtube.com/@LearnVue
+<br />
 
 ### UI/UX YT
 - https://www.youtube.com/@SatoriGraphics
