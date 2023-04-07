@@ -38,6 +38,7 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 
 ## Case Studies
 - https://www.casestudy.club/
+- [Material Studies](https://m2.material.io/design/material-studies/about-our-material-studies.html)
 <br />
 
 ## Certifications
@@ -78,6 +79,7 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 ## Inspiration
 - [Lapa Ninja](https://www.lapa.ninja)
 - [Awwwards](https://www.awwwards.com/)
+- [Designspiration](https://www.designspiration.com)
 - [Minimal Gallery](https://minimal.gallery/)
 - [Godly](https://godly.website/)
 - [httpster](https://httpster.net/)
