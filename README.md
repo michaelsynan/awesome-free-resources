@@ -58,6 +58,7 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 - [Atlassian](https://atlassian.design/)
 - [Cedar - REI](https://rei.github.io/rei-cedar-docs/)
 - [Human Interface Guidelines - Apple](https://developer.apple.com/design/)
+- [Latitude Design System](https://www.flexport.com/design)
 - [Material Design](https://github.com/material-components)
 - [Mailchimp Design System](https://ux.mailchimp.com/patterns/color)
 - [Polaris - Shopify](https://github.com/Shopify/polaris)
