@@ -11,6 +11,7 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 - [Case Studies](#case-studies)
 - [Certifications](#certifications)
 - [Color](#color)
+- [Design Systems](#design-systems)
 - [Fonts](#fonts)
 - [Images](#images)
 - [Inspiration](#inspiration)
@@ -52,6 +53,15 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 - [Colormind](http://colormind.io/): Uses ML to create color schemes. 
 - [Tint & Shade Generator](https://maketintsandshades.com/): Create shades of a given hex color in 10% increments.
 <br />
+
+## Design Systems
+- [Atlassian](https://atlassian.design/)
+- [Cedar - REI](https://rei.github.io/rei-cedar-docs/)
+- [Human Interface Guidelines - Apple](https://developer.apple.com/design/)
+- [Material Design](https://github.com/material-components)
+- [Mailchimp Design System](https://ux.mailchimp.com/patterns/color)
+- [Polaris - Shopify](https://github.com/Shopify/polaris)
+
 
 ## Fonts
 - [Fontesk](https://fontesk.com/license/free-for-commercial-use/) 
