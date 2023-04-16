@@ -49,6 +49,7 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 - [HubSpot Case Study Templates](https://offers.hubspot.com/case-study-templates)
 - [Wordstream Case Study Templates (Marketing)](https://www.wordstream.com/blog/ws/2017/04/03/how-to-write-a-case-study)
 - [Template.net Case Study Templates](https://www.template.net/business/case-templates/sample-case-study/)
+<br />
 
 ## Certifications
 - [Skillshop (Google)](https://skillshop.exceedlms.com/student/catalog)
