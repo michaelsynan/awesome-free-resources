@@ -9,6 +9,7 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 - [AI](#ai)
 - [Audio](#audio)
 - [Case Studies](#case-studies)
+- [Case Study Templates](#case-study-templates)
 - [Certifications](#certifications)
 - [Color](#color)
 - [Design Systems](#design-systems)
@@ -41,6 +42,10 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 - https://www.casestudy.club/
 - [Material Studies](https://m2.material.io/design/material-studies/about-our-material-studies.html)
 <br />
+
+## Case Study Templates
+- [HubSpot Case Study Templates](https://offers.hubspot.com/case-study-templates)
+- [Wordstream Case Study Templates (Marketing)](https://www.wordstream.com/blog/ws/2017/04/03/how-to-write-a-case-study)
 
 ## Certifications
 - [Skillshop (Google)](https://skillshop.exceedlms.com/student/catalog)
