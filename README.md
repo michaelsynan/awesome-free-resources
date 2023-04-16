@@ -17,6 +17,7 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 - [Images](#images)
 - [Inspiration](#inspiration)
 - [Learning & Reference](#learning-and-reference)
+- [Mockups](#mockups)
 - [Podcasts](#podcasts)
   - [Programming](#programming-podcasts)
   - [UI/UX](#uiux-podcasts)
@@ -41,11 +42,13 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 ## Case Studies
 - https://www.casestudy.club/
 - [Material Studies](https://m2.material.io/design/material-studies/about-our-material-studies.html)
+- [Shopify Case Studies](https://www.shopify.com/plus/customers)
 <br />
 
 ## Case Study Templates
 - [HubSpot Case Study Templates](https://offers.hubspot.com/case-study-templates)
 - [Wordstream Case Study Templates (Marketing)](https://www.wordstream.com/blog/ws/2017/04/03/how-to-write-a-case-study)
+- [Template.net Case Study Templates](https://www.template.net/business/case-templates/sample-case-study/)
 
 ## Certifications
 - [Skillshop (Google)](https://skillshop.exceedlms.com/student/catalog)
@@ -67,7 +70,7 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 - [Material Design](https://github.com/material-components)
 - [Mailchimp Design System](https://ux.mailchimp.com/patterns/color)
 - [Polaris - Shopify](https://github.com/Shopify/polaris)
-
+<br />
 
 ## Fonts
 - [Fontesk](https://fontesk.com/license/free-for-commercial-use/) 
@@ -113,6 +116,10 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 - [MDN_](https://developer.mozilla.org): Thoroughly documented CSS, HTML and JavaScript resources.
 - [Front-End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 - [free-for.dev](https://free-for.dev/): Comprehensive free developer resource list.
+<br />
+
+## Mockups
+- [Mockup World](https://www.mockupworld.co/)
 <br />
 
 ## Podcasts
