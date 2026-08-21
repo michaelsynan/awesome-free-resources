@@ -154,6 +154,8 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 - [Responsively](https://responsively.app): Tools for checking your sites accross multiple screen sizes for responsiveness. 
 - [BrowserFrame](https://browserframe.com): Download customizable browser frames for screenshots and design drafts. 
 - [Social Sizes](https://socialsizes.io/): Sizes of social media tools.
+- [Codex Theme Builder](https://codextheme.tools/): Free browser tool to design and export custom Codex CLI themes.
+- [Image to Crochet Pattern](https://imagetocrochetpattern.com/): Convert any photo into a free crochet pattern grid.
 <br />
 
 ## Youtube
