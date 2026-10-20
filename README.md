@@ -144,6 +144,7 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 <br />
 
 ## Tools
+- [Icybiz](https://icybiz.com/): Visually create and publish a hosted website; one basic website remains free.
 - [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds): Easily create pure CSS background patters.
 - [CSS Gradient](https://cssgradient.io): Tool that lets you create linear and radial CSS gradients.
 - [CSS Layout Generator](layout.bradwoods.io): Premade grid and flexbox layouts you can use or edit.
