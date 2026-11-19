@@ -151,6 +151,7 @@ Many times new developers or desigers end up having to wear many hats. This _awe
 - [Template.net](https://www.template.net/): Free templates for a variety of design and business uses. 
 - [Free Mockup](https://www.free-mockup.com/): Free mockups displaying your design or product in a variety of situations.
 - [lukaszadam](https://lukaszadam.com/illustrations): Free CC0 illustrations by Lukasz Adam. 
+- [PixelArtHive](https://pixelarthive.com/): Free browser-local image-to-pixel-art converter and pixel art upscaler.
 - [Responsively](https://responsively.app): Tools for checking your sites accross multiple screen sizes for responsiveness. 
 - [BrowserFrame](https://browserframe.com): Download customizable browser frames for screenshots and design drafts. 
 - [Social Sizes](https://socialsizes.io/): Sizes of social media tools.
